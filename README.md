@@ -15,9 +15,10 @@
 ## 👥 سازندگان
 
 | نام | لینک |
-|------|------|------|
-[Ali Farisat](https://github.com/WolfAlicode) | 🔗 [GitHub](https://github.com/WolfAlicode) |
-[Sadegh Kdd](https://github.com/sadeghkdd) | 🔗 [GitHub](https://github.com/sadeghkdd) |
+|------|------|
+| [Ali Farisat](https://github.com/WolfAlicode) | 🔗 [GitHub](https://github.com/WolfAlicode) |
+| [Sadegh Kdd](https://github.com/sadeghkdd) | 🔗 [GitHub](https://github.com/sadeghkdd) |
+
 
 ---
 
@@ -72,7 +73,7 @@ pip install -r requirements.txt
 
 ```bash
 pip install playwright
-playwright install chromium
+playwright install
 ```
 
 ### 3️⃣ تنظیم توکن ربات
@@ -156,18 +157,15 @@ ebay_scraper.log
 
 ## 📄 مجوز
 
-این پروژه تحت مجوز **MIT License** منتشر شده است.  
+این پروژه تحت مجوز **GPL-3.0 license** منتشر شده است.  
 استفاده، ویرایش و انتشار مجدد آن با ذکر نام سازندگان مجاز است.
 
 ---
 
 ## 🧑‍💻 توسعه‌دهندگان
 
-💬 برای ارتباط، با توسعه‌دهندگان تماس بگیرید:
-
-- [@AliZone](https://t.me/AliZone)
-- [@Sadegh_kd](https://t.me/Sadegh_kd)
-
+💬 برای ارتباط، با توسعه‌دهنده تماس بگیرید:
+alifarisat04@gmail.com
 ---
 
 ## 🌟 حمایت از پروژه
