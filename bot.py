@@ -177,7 +177,7 @@ async def help(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         "ℹ️ About the bot:\n"
         "🤖 Name: Scraper Shop\n"
         "👤 Developer: Mohammad Sadegh Kordani and Ali Farisat\n"
-        "📧 Support IDs: @AliZone, @Sadegh_kd \n\n"
+        "📧 Support IDs:  \n\n"
         "🧭 How to use:\n"
         "1️⃣ Type the /shop command to see the websites.\n"
         "2️⃣ Choose the desired website.\n"
